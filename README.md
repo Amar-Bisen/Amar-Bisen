@@ -5,16 +5,16 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/bisenamar18">
+  <a href="https://github.com/Amar-Bisen">
     <img src="https://img.shields.io/github/followers/bisenamar18?label=Follow&style=social" alt="GitHub Badge"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-id">
+  <a href="www.linkedin.com/in/amar-bisen-328691212">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kaggle.com/your-kaggle-id">
+  <!-- <a href="https://www.kaggle.com/your-kaggle-id">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-  <a href="mailto:your-email@example.com">
+  </a> -->
+  <a href="mailto:bisenamar18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
@@ -29,7 +29,7 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
 - 🌱 I’m currently learning **Advanced Machine Learning & Big Data**
 - 👯 I’m looking to collaborate on **Data Visualization Projects**
 - 🧠 Ask me about **Python, SQL, and Dashboarding**
-- ⚡ Fun fact: **I spend 80% of my time cleaning data!**
+- ⚡ Fun fact: **I spend 70% of my time cleaning data!**
 
 ---
 
@@ -41,7 +41,7 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <br />
@@ -50,15 +50,15 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
   <br />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-46B8B8?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 
   <br />
 
   **Visualization & Tools**
   <br />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-0077B6?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
@@ -70,20 +70,20 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
 
 | Project | Tools Used | Description |
 | :--- | :--- | :--- |
-| **Sales Dashboard** | Power BI, SQL | *Analyzed regional sales data to identify top performers.* |
+| **EDA - Weather Data Analysis** | Python, Pandas| *Analyzed Weather data to identify Different Weather Conditions.* |
 | **Price Prediction** | Python, Scikit-learn | *Linear Regression model to predict real estate prices.* |
-| **Customer Churn** | Pandas, Seaborn | *Exploratory Data Analysis (EDA) on customer retention.* |
+| **Customer Shopping Behavior Dashboard** | Pandas, MySql, PowerBI | *Analyzed sales data to identify Customers Shopping Behaviors.* |
 
 ---
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   
-  <a href="https://github.com/bisenamar18">
+  <a href="https://github.com/Amar-Bisen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bisenamar18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   
-  <a href="https://github.com/bisenamar18">
+  <a href="https://github.com/Amar-Bisen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisenamar18&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 </div>
@@ -91,11 +91,11 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisenamar18&theme=dracula&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amar-bisen&theme=dracula&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bisenamar18&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amar-bisen&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
