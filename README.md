@@ -25,8 +25,8 @@
 
 I am a Data Analyst passionate about uncovering trends and translating complex data into actionable insights.
 
-- 🔭 I’m currently analyzing **Sales & Market Trends**
-- 🌱 I’m currently learning **Advanced Machine Learning & Big Data**
+- 🔭 I’m currently analyzing **Various Datasets**
+- 🌱 I’m currently learning **Advanced Machine Learning & Big Data analysis**
 - 👯 I’m looking to collaborate on **Data Visualization Projects**
 - 🧠 Ask me about **Python, SQL, and Dashboarding**
 - ⚡ Fun fact: **I spend 70% of my time cleaning data!**
@@ -72,7 +72,7 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
 | Project | Tools Used | Description |
 | :--- | :--- | :--- |
 | **EDA - Weather Data Analysis** | Python, Pandas| *Analyzed Weather data to identify Different Weather Conditions.* |
-| **Price Prediction** | Python, Scikit-learn | *Linear Regression model to predict real estate prices.* |
+<!--| **Price Prediction** | Python, Scikit-learn | *Linear Regression model to predict real estate prices.* | -->
 | **Customer Shopping Behavior Dashboard** | Pandas, MySql, PowerBI | *Analyzed sales data to identify Customers Shopping Behaviors.* |
 
 ---
