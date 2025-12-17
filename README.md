@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Amar-Bisen">
+  <a href="https://www.github.com/Amar-Bisen/">
     <img src="https://img.shields.io/github/followers/bisenamar18?label=Follow&style=social" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/amar-bisen-328691212/">
