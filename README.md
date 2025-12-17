@@ -91,10 +91,11 @@ I am a Data Analyst passionate about uncovering trends and translating complex d
 
 <br />
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar-Bisen&theme=dracula&hide_border=true" alt="Streak Stats" />
 </div>
-
+-->
 ---
 
 <div align="center">
