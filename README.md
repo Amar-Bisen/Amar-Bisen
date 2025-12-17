@@ -8,7 +8,7 @@
   <a href="https://github.com/Amar-Bisen">
     <img src="https://img.shields.io/github/followers/bisenamar18?label=Follow&style=social" alt="GitHub Badge"/>
   </a>
-  <a href="www.linkedin.com/in/amar-bisen-328691212">
+  <a href="https://www.linkedin.com/in/amar-bisen-328691212/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <!-- <a href="https://www.kaggle.com/your-kaggle-id">
